@@ -37,3 +37,8 @@ Organisation : séparation claire des dossiers front-end (ex : /EcoRide) et back
 Justification :
 Le double environnement garantit un développement efficace et un déploiement fiable. Le découpage des dossiers permet de protéger les fichiers sensibles et d’organiser le projet.
 
+Informations complémentaires
+En raison d’un manque de temps, je n’ai pas pu intégrer de JavaScript dans ce projet, ce qui limite certaines interactions dynamiques côté front-end. De plus,
+il me manque encore quelques petits détails fonctionnels et techniques qui étaient spécifiés dans les User Stories (US). Ces points pourront être améliorés et complétés dans 
+une future évolution du projet.
+
