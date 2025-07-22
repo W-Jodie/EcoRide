@@ -42,3 +42,10 @@ En raison d’un manque de temps, je n’ai pas pu intégrer de JavaScript dans 
 il me manque encore quelques petits détails fonctionnels et techniques qui étaient spécifiés dans les User Stories (US). Ces points pourront être améliorés et complétés dans 
 une future évolution du projet.
 
+Informations de déploiement :
+Le site EcoRide a été déployé avec succès sur l’hébergement Alwaysdata.
+La base de données (ecoride-jodie_sql) a été importée sur le serveur et est disponible via phpMyAdmin.
+Limitation actuelle : la connexion entre l’application PHP et la base distante ne fonctionne pas encore (erreur de connexion PDO), donc les fonctionnalités dynamiques dépendantes
+de la BDD sont inactives. En revanche, la partie HTML/CSS du site est pleinement accessible en ligne et permet de visualiser l’interface utilisateur.
+Une correction de la configuration PDO (hôte, identifiants MySQL, droits, etc.) est planifiée dans une prochaine mise à jour.
+
