@@ -1,4 +1,3 @@
-
 Utilisation de Figma.
 Pour concevoir l’interface utilisateur du projet EcoRide, j’ai utilisé Figma, un outil de design collaboratif en ligne. Cela m’a permis de :
 Créer des maquettes visuelles précises avant le développement, facilitant la planification et l’organisation du contenu.
@@ -41,6 +40,8 @@ Informations complémentaires
 En raison d’un manque de temps, je n’ai pas pu intégrer de JavaScript dans ce projet, ce qui limite certaines interactions dynamiques côté front-end. De plus,
 il me manque encore quelques petits détails fonctionnels et techniques qui étaient spécifiés dans les User Stories (US). Ces points pourront être améliorés et complétés dans 
 une future évolution du projet.
+
+lien deploiement : https://ecoride-jodie.alwaysdata.net/EcoRide/
 
 Informations de déploiement :
 Le site EcoRide a été déployé avec succès sur l’hébergement Alwaysdata.
