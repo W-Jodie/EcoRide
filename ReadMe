@@ -1,4 +1,25 @@
-Utilisation de Figma.
+Organisation du projet avec Trello
+Pour gérer efficacement le projet EcoRide, j’ai utilisé l’outil de gestion de tâches Trello. Il m’a permis de suivre l’évolution du développement
+et de mieux organiser les différentes étapes du projet. Trello fonctionne selon la méthode Kanban, avec des listes et des cartes.
+Il aide à visualiser l’avancement du projet, permet de prioriser les tâches à faire
+Donne une vision claire des étapes restantes, favorise une meilleure gestion du temps et du rendu final.
+
+Conception des wireframes avec Balsamiq
+Dans le cadre du projet EcoRide, j’ai utilisé Balsamiq Wireframes pour concevoir les premières versions des interfaces du site. 
+Il s'agit de wireframes, c’est-à-dire des schémas simples permettant de visualiser rapidement la structure des pages avant la phase de développement.
+Objectifs des wireframes
+Structurer l’interface utilisateur, Définir le parcours utilisateur
+Identifier les zones fonctionnelles principales (recherche, formulaire, tableau, etc.)
+Valider l’ergonomie avec un rendu rapide et épuré
+
+Les wireframes créés avec Balsamiq incluent :
+Page d’accueil, recherche de trajets, détail d’un trajet
+c'est un interface simple à utiliser, même sans compétence en design
+Représentation visuelle rapide des idées
+Idéal pour la phase de réflexion UX/UI
+Permet d’éviter les erreurs de conception en amont
+
+Utilisation de Figma pour les mockups.
 Pour concevoir l’interface utilisateur du projet EcoRide, j’ai utilisé Figma, un outil de design collaboratif en ligne. Cela m’a permis de :
 Créer des maquettes visuelles précises avant le développement, facilitant la planification et l’organisation du contenu.
 Expérimenter différents layouts, couleurs et styles pour améliorer l’ergonomie et l’expérience utilisateur.
