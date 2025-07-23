@@ -4,6 +4,18 @@ et de mieux organiser les différentes étapes du projet. Trello fonctionne selo
 Il aide à visualiser l’avancement du projet, permet de prioriser les tâches à faire
 Donne une vision claire des étapes restantes, favorise une meilleure gestion du temps et du rendu final.
 
+Diagramme réalisé avec draw.io
+Pour modéliser les fonctionnalités principales de la plateforme EcoRide, un diagramme de cas d’utilisation a été réalisé à l’aide de l’outil draw.io.
+Ce diagramme permet de visualiser les interactions entre les différents acteurs du système et les cas d’usage associés.
+Visiteur : peut consulter les covoiturages disponibles via les filtres, accéder au détail d’un trajet, et s’inscrire pour devenir utilisateur.
+Utilisateur : peut proposer un trajet, participer à un trajet, consulter les détails, gérer ses crédits, etc.
+Employé : responsable de la validation et/ou refus des trajets proposer ainsi que avis etc..
+Administrateur : peut consulter des graphiques statistiques (crédit et covoiturage), créer et gérer des comptes employés et utilisateur.
+Navigation via le menu principal et le formulaire de recherche.
+Connexion / inscription, avec distinction entre compte chauffeur et participant.
+Interaction autour de la participation, validation, mise à jour des crédits, envoi ou annulation d’e-mails.
+Gestion de l’information de covoiturage tout au long du trajet (démarrer, arriver à destination, etc.).
+
 Conception des wireframes avec Balsamiq
 Dans le cadre du projet EcoRide, j’ai utilisé Balsamiq Wireframes pour concevoir les premières versions des interfaces du site. 
 Il s'agit de wireframes, c’est-à-dire des schémas simples permettant de visualiser rapidement la structure des pages avant la phase de développement.
